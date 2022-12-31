@@ -1,6 +1,6 @@
 import { NextPage } from 'next';
-import Footer from '../Footer';
-import Navbar from '../Navbar';
+import Footer from 'components/Footer';
+import Navbar from 'components/Navbar';
 
 const Layout: NextPage = ({ children }) => {
   return (
