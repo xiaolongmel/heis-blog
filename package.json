@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "@types/mockjs": "^1.0.7",
+    "sass": "^1.57.1",
     "stylelint": "^14.16.1",
     "stylelint-config-standard-scss": "^6.1.0"
   }
